@@ -1,6 +1,5 @@
 # Mconnect_Original_notask_040620
 version ไม่มี task มี OTA,Getconfig ครบ แบบเดิม  ทดสอบ ค้อนข้างนิ่งแล้ว 
-04/06/20
 แต่แก้ไข Server ตอบกลับ OK แล้ว เมื่อ insert database สำเร็จ 
 เมื่อบอร์ด ไม่ได้รับ OK ตอบกลับจาก server  จะ packdata write ลง ram ไปเรื่อยๆ
 ใช้เวลาในการ write sd card  ใช้ เวลา  ประมาณ  22 วินาที
