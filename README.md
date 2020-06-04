@@ -8,3 +8,8 @@ version ไม่มี task มี OTA,Getconfig ครบ แบบเดิ�
 
 ### check ให้ sure ก่อนไปทำ Task
 ### *** ต้นแบบ ในการไป เขียน Task ต่อไป 
+![img](https://iotfmx.com/imgtest/test_040620/test4_01.png)
+![img](https://iotfmx.com/imgtest/test_040620/test4_02.png)
+![img](https://iotfmx.com/imgtest/test_040620/test4_03.png)
+![img](https://iotfmx.com/imgtest/test_040620/test4_04.png)
+![img](https://iotfmx.com/imgtest/test_040620/test4_05sd.png)
